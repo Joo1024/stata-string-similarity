@@ -1,0 +1,10 @@
+v 3
+d strquick: quick string similarity for Stata
+d Version: 0.1.0
+d Distribution-Date: 20261018
+d Author: Joo1024
+d Requires Stata 16 or later and configured Python integration.
+d License: MIT
+f strquick.ado
+f strquick.sthlp
+f LICENSE

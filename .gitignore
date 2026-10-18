@@ -1,0 +1,6 @@
+# Local operating-system and Stata output files
+.DS_Store
+*.log
+*.smcl
+*.stswp
+__pycache__/

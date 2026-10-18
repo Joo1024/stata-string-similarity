@@ -1,0 +1,4 @@
+v 3
+d stata-string-similarity: quick string similarity for Stata
+d Requires Stata 16 or later and configured Python integration.
+p strquick Compare two literal strings using Python difflib quick_ratio()
